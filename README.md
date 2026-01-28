@@ -106,3 +106,9 @@ If you’re looking for polished enterprise software, you won’t find it here.
 If you’re looking for experimental ideas, strange directions, and weird lil projects born out of curiosity and stubbornness, this is where mine live.
 
 ---
+
+## Why My Projects Exist
+
+Because I’m struggling with even basic Computer Engineering, I have no idea what I’m doing half the time at school, am struggling. I like to code. I got interested in programming and building things, and I started experimenting with different projects. Most of my projects exist because I wanted to learn by doing, not because I had a plan.
+
+---
