@@ -1,114 +1,80 @@
-# Hello, world!
-___
-# I am Abi
+# Hello, I'm Abi (｡•̀ᴗ-)✧
 
-I’m the kind of programmer-for-fun who spends two years daydreaming about writing a microkernel or a music pseudocode language, fills notebooks with strange diagrams at 3am (｡•̀ᴗ-)✧, and eventually turns those ideas into real code because leaving them unfinished feels wrong.
+Year 2 at Singapore Polytechnic. Programmer-for-fun. Chronic notebook filler. I get really charmed by an idea, scribble increasingly unhinged diagrams about it for weeks, go on seventeen tangents, and then one day it just... becomes code. No plan. Just vibes and stubbornness (¯▿¯)
 
-Most of my projects come from the same place: curiosity, boredom, or a moment where I realise, *“this idea shouldn’t exist… but I’m going to make it anyway.”* (¯▿¯)
-
-I tinker with embedded systems, microcontrollers, and small experimental environments.
-Not professionally — just because I like watching small ideas become real.
+I genuinely love this. The part where nothing works, the part where it finally does, the weird detour where you end up learning something completely unrelated and get excited about that instead.
 
 ---
 
 ## What I Actually Do
 
-### Microcontrollers
+I tinker. Mostly low-level stuff, embedded systems, weird side projects, the occasional thing with no reason to exist. I'm doing computer engineering at SP and struggling with half of it, which is fine — I learn a lot more from just building things than I ever do from sitting in a lecture.
 
-I enjoy small, bare-metal, hands-on development.
-Boards, pins, displays, strange peripherals — projects that begin as a scribble and somehow become hardware (•̀ω•́ )ゝ
+I should say upfront: I'm not a good coder. I take forever to start things, I get distracted constantly, I do weird stuff with projects for reasons I can't fully explain, and anything GUI or frontend-adjacent defeats me completely. My brain is kind of like a GPU — terrible single-core performance, somehow parallelised beyond reason. You'd watch me try to do something simple and think I was struggling. I am. I just also happen to have six other things running in the background (•_•)
 
-### Microcontroller Operating Systems & Kernels
+It's fine. I like it here.
 
-Not as an expert — more like a persistent hobbyist who refuses to let go of an idea.
-My **Picomimi Kernel** is the best example: two years of imagining it, one year of trying to understand how real-time kernels work, and only recently (finally) writing it for real.
+### Terminal things
 
-It’s small, strange, personal — and that’s exactly the point (¬‿¬)
+**ytcui** started as a "what if I just..." and turned into a full C++ ncurses YouTube client with its own built-in InnerTube API client (ytcui-dl), 18 colour themes, playlists, vim keybinds, and coloured thumbnail rendering in the terminal. It got away from me a little (•̀ω•́ )ゝ
 
-### Quirky Side Projects
+### Languages (allegedly)
 
-I have a habit of creating things that don’t need to exist, simply because I want them to.
-**AbiMusicSheet (AMS)** is one of those: a human-readable “coded music sheet” language I invented because I can parse pseudocode instantly but can’t read piano notation to save my life (ಥ﹏ಥ)
+I picked up **Sage** from another developer and have been slowly rebuilding it into something I like. It's a programming language with gradual typing, three memory modes, ADT enums, Python interop, and an error subsystem called Firefly that actually tells you what went wrong. Progress is slow. That's fine.
 
-I wrote it in a notebook long before coding it. Eventually, it escaped the notebook and became a real project (๑˃ᴗ˂)ﻭ
+**AbiMusicSheet (AMS)** exists because I love music and I am, measurably, catastrophically bad at reading sheet music (ಥ﹏ಥ). Like I genuinely cannot do it. So I wrote pseudocode notation for myself that I can actually parse. It started in a notebook, escaped, became a real project. Completely unnecessary. That's the whole point.
 
-Other ideas follow the same pattern: intrusive thought → evolution → solidification.
+### Hardware + ML
+
+**FoundryVision** is an ESP32-S3 running TensorFlow Lite Micro doing person detection at ~10fps, streaming telemetry over WiFi to a host that calls a local LLM to narrate what the model is thinking in real time. Built it as a teaching tool and I think it's pretty neat (๑˃ᴗ˂)ﻭ
+
+### The philosophical corner
+
+**EmergentEvolution** is a personal study somewhere between systems theory, cognitive science, and philosophy of mind. The central question is roughly: when does interaction become indistinguishable from internal cognition? Intentionally unfinished. Intentionally not serious. Blep.
 
 ---
 
-## My Development Style
+## How I Work
 
-My workflow confuses people because it looks inhuman on the contribution graph at times, and stagnates badly at other times (•_•)
-It isn’t. It’s just how my brain works.
+### Parallel development
 
-### Parallel Development
+I can't iterate linearly — my brain refuses. I'll run a few versions of a feature at the same time, let them evolve separately, then see what survives. Borrowed the idea from my plant hobby, honestly. Selective breeding but for code. Only the fittest (or most interesting) makes it through (´･ᴗ･ ` )
 
-I don’t iterate linearly.
-I develop multiple versions of a feature at the same time, each exploring a different behaviour.
-They evolve separately, and then I selectively merge the strongest parts into a final design.
+### Documentation-heavy
 
-It’s essentially selective breeding, but for code — something borrowed from my plant hobby (´･ᴗ･ ` )
-Only the fittest feature, or the most interesting survives.
+I rewrite READMEs and comments more than I write actual code some weeks. I'll spend an hour getting a single sentence right. This produces a suspicious contribution graph. It is what it is.
 
-### Documentation-Heavy
+### On AI
 
-I update READMEs, comments, explanations, and phrasing more than I update code at times.
-I rewrite obsessively until things feel clean and sensible.
-This alone creates a suspicious amount of contributions ( T^T )
-
-### Not AI-Driven
-
-People sometimes assume the rapid contributions are automated.
-They aren’t.
-
-My concepts, quirks, designs, and project directions are completely human.
-I only use AI for very narrow, technical areas I’m unfamiliar with (like the internals of MIDI files or merging complex feature branches cleanly).
-
-When I use AI, it’s to *learn*, not to mass-produce code or impress anyone.
-I disclose it because transparency feels more comfortable than hiding it (・‿・)
+I use AI the way I use documentation — to learn things I don't know yet. MIDI internals, how a garbage collector actually works, untangling complex merges. The ideas, the directions, the weird lil projects are mine. I mention it because transparency is just more comfortable (・‿・)
 
 ---
 
 ## Outside of Code
 
-I like plants.
-I’m a hobbyist grower, terrarium maker, and someone who finds comfort in ecosystems, soil, tiny worlds, woodworking, small electronics design, repairing laptops/phones, drawing, and painting.
+Plants. I grow things, make terrariums, think about small ecosystems a lot. It probably bleeds into how I think about projects — slow growth, careful iteration, things dying quietly and being replaced by something better.
 
-My projects reflect that: small environments, controlled behaviour, careful iteration, slow evolution (•̀ᴗ•́ )و ̑̑
+Also: drawing, painting, woodworking, repairing old laptops and phones, and music — I love music deeply and I am completely hopeless at it and those two facts coexist peacefully.
 
 ---
 
-## Highlighted Repositories
+## Repos - Idk, whatever I thought I'd put here for fun :3
 
-### [Picomimi Kernel](https://github.com/MilkmanAbi/Picomimi)
+### [ytcui](https://github.com/MilkmanAbi/ytcui)
+Terminal YouTube client. C++, ncurses, built-in InnerTube client, 18 themes, playlists, coloured thumbnails. Got a little out of hand :3
 
-A microcontroller OS / hobby kernel. Two years of imagining, one year of learning RTOS concepts, and finally brought to life. Small, experimental, and personal.
+### [Sage](https://github.com/MilkmanAbi/Sage)
+Experimental programming language. Gradual typing, three memory modes, ADT enums, Python FFI, error messages that actually help. Slow, honest, in progress.
 
 ### [AbiMusicSheet](https://github.com/MilkmanAbi/AbiMusicSheet)
+Pseudocode music notation I invented for myself because sheet music and I are not on speaking terms.
 
-A human-readable, code-like music notation language for programmers. Started in a notebook, evolved into a real project. Fun, quirky, and completely unnecessary — just how I like it.
+### [FoundryVision](https://github.com/MilkmanAbi/FoundryVision)
+ESP32-S3 person detection with live LLM narration. Teaching tool. Hardware and vibes.
 
-### [MilkWidgetCore](https://github.com/MilkmanAbi/MilkWidgetCore)
-
-Successor and development experiment from GWidgetSuite. Random utilities and widgets, often bridging aesthetics and quirky experimental ideas. Shows my love for aesthetics.
-
----
-
-## What You’ll Find in My Repos
-
-* Minor microcontroller experiments
-* Quirky programming languages like AMS
-* Random widgets for aesthetics
-* Iterative idea-evolutions
-* Projects that exist simply because “it felt interesting enough to build” (￣▽￣)
-
-If you’re looking for polished enterprise software, you won’t find it here.
-If you’re looking for experimental ideas, strange directions, and weird lil projects born out of curiosity and stubbornness, this is where mine live.
+### [EmergentEvolution](https://github.com/MilkmanAbi/EmergentEvolution)
+Personal study on complex systems. Intentionally unfinished. Intentionally not serious. (｡•̀ᴗ-)✧
 
 ---
 
-## Why My Projects Exist
-
-Because I’m struggling with even basic Computer Engineering, I have no idea what I’m doing half the time at school, am struggling. I like to code. I got interested in programming and building things, and I started experimenting with different projects. Most of my projects exist because I wanted to learn by doing, not because I had a plan.
-
----
+If you're here, (￣▽￣)  Hallo, hallo, hallo! GitHub ya!
