@@ -10,7 +10,7 @@ I genuinely love this. The part where nothing works, the part where it finally d
 
 I tinker. Mostly low-level stuff, embedded systems, weird side projects, the occasional thing with no reason to exist. I'm doing computer engineering at SP and struggling with half of it, which is fine — I learn a lot more from just building things than I ever do from sitting in a lecture.
 
-I should say upfront: I'm not a good coder. I take forever to start things, I get distracted constantly, I do weird stuff with projects for reasons I can't fully explain, and anything GUI or frontend-adjacent defeats me completely. My brain is kind of like a GPU — terrible single-core performance, somehow parallelised beyond reason. You'd watch me try to do something simple and think I was struggling. I am. I just also happen to have six other things running in the background (•_•)
+I should say upfront: I'm not a good coder. I take forever to start things, I get distracted constantly, I do weird stuff with projects for reasons I can't fully explain, and anything GUI or frontend-adjacent defeats me completely. Math too - I feel bad for my SP lecturers at this point for having to mark my abysmal math. My brain is kind of like a GPU — terrible single-core performance, somehow parallelised beyond reason. You'd watch me try to do something simple and think I was struggling. I am. I just also happen to have six other things running in the background (•_•)
 
 It's fine. I like it here.
 
