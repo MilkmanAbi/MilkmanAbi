@@ -46,7 +46,7 @@ I rewrite READMEs and comments more than I write actual code some weeks. I'll sp
 
 ### On AI
 
-I use AI the way I use documentation — to learn things I don't know yet. MIDI internals, how a garbage collector actually works, untangling complex merges. The ideas, the directions, the weird lil projects are mine. I mention it because transparency is just more comfortable (・‿・)
+I use AI the way I use documentation — to learn things I don't know yet. MIDI internals, how a garbage collector actually works, untangling complex merges. The ideas, the directions, the weird lil projects are mine. I mention it because transparency is just more comfortable (・‿・) I'm not the best coder, and I won't pretend to be. I use AI all the time to learn and to help clean up the messy code I write. That said, I don't believe in fully offloading a project to AI. I'm transparent about it because, honestly, I don't think it's right to pretend AI-generated work is entirely my own. XP
 
 ---
 
