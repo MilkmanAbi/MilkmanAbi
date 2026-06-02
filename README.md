@@ -56,6 +56,8 @@ Plants. I grow things, make terrariums, think about small ecosystems a lot. It p
 
 Also: drawing, painting, woodworking, repairing old laptops and phones, and music — I love music deeply and I am completely hopeless at it and those two facts coexist peacefully.
 
+And as you may be able to tell from my commit history... I need a bloody job. Bwahhh...
+
 ---
 
 ## Repos - Idk, whatever I thought I'd put here for fun :3
