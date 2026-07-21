@@ -1,5 +1,7 @@
 # Hello, I'm Abi (｡•̀ᴗ-)✧
 
+I am literally a slacker bum and somehow still tired. Genuinely rethinking my life choices... CUTELY THO OwO???
+
 Year 2 at Singapore Polytechnic. Programmer-for-fun. Chronic notebook filler. I get really charmed by an idea, scribble increasingly unhinged diagrams about it for weeks, go on seventeen tangents, and then one day it just... becomes code. No plan. Just vibes and stubbornness (¯▿¯)
 
 I genuinely love this. The part where nothing works, the part where it finally does, the weird detour where you end up learning something completely unrelated and get excited about that instead.
