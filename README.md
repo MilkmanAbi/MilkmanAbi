@@ -2,6 +2,8 @@
 
 I am literally a slacker bum in sch and somehow still tired. Genuinely rethinking my life choices... CUTELY THO OwO???
 
+I literally don't even do anything productive, my LinkedIn is basically empty, my GitHub is just full of crap and still I am somehow tired. I don't know why man, I really don't. Studies not good, code not good, just dumb ideas in my head bouncing around. Man I don't know where I'm goin with life.
+
 Year 2 at Singapore Polytechnic. Programmer-for-fun. Chronic notebook filler. I get really charmed by an idea, scribble increasingly unhinged diagrams about it for weeks, go on seventeen tangents, and then one day it just... becomes code. No plan. Just vibes and stubbornness (¯▿¯)
 
 I genuinely love this. The part where nothing works, the part where it finally does, the weird detour where you end up learning something completely unrelated and get excited about that instead.
