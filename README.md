@@ -1,4 +1,4 @@
-# Hello, I'm Abi (｡•̀ᴗ-)✧
+# Hello, I'm Abi
 
 I am literally a slacker bum in sch and somehow still tired. Genuinely rethinking my life choices... CUTELY THO OwO???
 
