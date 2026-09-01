@@ -32,10 +32,6 @@ I picked up **Sage** from another developer and have been slowly rebuilding it i
 
 **FoundryVision** is an ESP32-S3 running TensorFlow Lite Micro doing person detection at ~10fps, streaming telemetry over WiFi to a host that calls a local LLM to narrate what the model is thinking in real time. Built it as a teaching tool and I think it's pretty neat (๑˃ᴗ˂)ﻭ
 
-### The philosophical corner
-
-**EmergentEvolution** is a personal study somewhere between systems theory, cognitive science, and philosophy of mind. The central question is roughly: when does interaction become indistinguishable from internal cognition? Intentionally unfinished. Intentionally not serious. Blep.
-
 ---
 
 ## How I Work
